@@ -1,15 +1,28 @@
 package com.exposit.sjc.paradox.domain.model;
 
-public class Comment {
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Table;
 
+@Entity
+@Table(name = "comment")
+public class Comment {
+	@GeneratedValue(strategy = GenerationType.AUTO)
+	@Column(name = "comment_id")
 	private int commentId;
 	
+	@Column(name = "comment_text")
 	private String commentText;
 	
+	@Column(name = "comment_rating")
 	private int commentRating;
 	
+	@Column(name = "comment_userlogin")
 	private String userLogin;
 	
+	@Column(name = "comment_isnegative")
 	private Boolean isNegative;
 
 	public int getCommentId() {

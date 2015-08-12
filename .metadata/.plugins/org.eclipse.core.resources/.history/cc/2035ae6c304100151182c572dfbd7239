@@ -1,0 +1,33 @@
+package com.exposit.sjc.paradox.domain.model;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Table;
+
+@Entity
+@Table(name = "recommendation")
+public class Recommendation {
+	@GeneratedValue(strategy = GenerationType.AUTO)
+	@Column(name = "recommendation_id")
+	private int recommendationId;
+	
+	private String userLogin;
+
+	public int getRecommendationId() {
+		return recommendationId;
+	}
+
+	public void setRecommendationId(int recommendationId) {
+		this.recommendationId = recommendationId;
+	}
+
+	public String getUserLogin() {
+		return userLogin;
+	}
+
+	public void setUserLogin(String userLogin) {
+		this.userLogin = userLogin;
+	}
+}

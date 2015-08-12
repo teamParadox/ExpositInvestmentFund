@@ -1,4 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Move &apos;resources, webapp&apos; to &apos;src&apos;" description="Move 2 resources to &apos;src&apos;" destination="src" element1="src/main/resources" element2="src/main/webapp" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="2" stamp="1439363879310" updateReferences="true"/>
-</session>
+<session version="1.0">&#x0A;<refactoring comment="Move &apos;resources, webapp&apos; to &apos;src&apos;" description="Move 2 resources to &apos;src&apos;" destination="src" element1="src/main/resources" element2="src/main/webapp" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="2" stamp="1439363879310" updateReferences="true"/>&#x0A;&#x0A;</session>

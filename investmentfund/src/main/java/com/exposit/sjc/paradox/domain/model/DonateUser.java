@@ -2,6 +2,9 @@ package com.exposit.sjc.paradox.domain.model;
 
 import java.util.List;
 
+import javax.persistence.Entity;
+
+@Entity
 public class DonateUser extends BaseModel {
 
 	private int accountId;

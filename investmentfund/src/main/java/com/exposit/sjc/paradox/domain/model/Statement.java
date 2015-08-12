@@ -2,20 +2,39 @@ package com.exposit.sjc.paradox.domain.model;
 
 import java.util.Date;
 
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.EnumType;
+import javax.persistence.Enumerated;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Table;
+
+@Entity
+@Table(name = "statement")
 public class Statement {
-	
+	@GeneratedValue(strategy = GenerationType.AUTO)
+	@Column(name = "statement_id")
 	private int statementId;
 	
+	@Column(name = "statemnt_projectarea")
+	@Enumerated(EnumType.STRING)
 	private Area projectArea;
 	
+	@Column(name = "statement_projectid")
 	private int projectId;
 	
+	@Column(name = "statemnt_status")
+	@Enumerated(EnumType.STRING)
 	private StatementStatus status;
 	
+	@Column(name = "statement_submissiondate")
 	private Date submitionDate;
 	
+	@Column(name = "statement_wherewithal")
 	private double wherewithal;
 	
+	@Column(name = "statement_considerationtime")
 	private Date considerationTime;
 
 	public int getStatementId() {

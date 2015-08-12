@@ -1,9 +1,19 @@
 package com.exposit.sjc.paradox.domain.model;
 
-public class Recommendation {
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Table;
 
+@Entity
+@Table(name = "recommendation")
+public class Recommendation {
+	@GeneratedValue(strategy = GenerationType.AUTO)
+	@Column(name = "recommendation_id")
 	private int recommendationId;
 	
+	@Column(name = "recommendation_userid")
 	private String userLogin;
 
 	public int getRecommendationId() {
