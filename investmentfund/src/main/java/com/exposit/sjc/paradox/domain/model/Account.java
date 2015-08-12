@@ -16,7 +16,7 @@ import javax.persistence.Table;
 public class Account {
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	@Column(name = "account_id")
-	private int id;
+	private Integer id;
 	
 	@Column(name = "account_balance")
 	private double balance;
