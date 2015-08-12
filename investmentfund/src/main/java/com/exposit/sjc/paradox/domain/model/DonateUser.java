@@ -12,6 +12,16 @@ public class DonateUser extends BaseInfo {
 	private List<Comment> comments;
 	
 	private List<Recommendation> recommendations;
+	
+	private BaseInfo info;
+
+	public BaseInfo getInfo() {
+		return info;
+	}
+	
+	public void setInfo(BaseInfo info) {
+		this.info = info;
+	}
 
 	public int getAccountId() {
 		return accountId;

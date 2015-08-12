@@ -5,12 +5,22 @@ import java.util.List;
 import javax.persistence.Entity;
 
 @Entity
-public class Director extends BaseInfo {
+public class Director  {
 	
 	private Integer DirectorId;
 	
 	private List<Statement> statements;
+	
+	private BaseInfo info;
 
+	public BaseInfo getInfo() {
+		return info;
+	}
+	
+	public void setInfo(BaseInfo info) {
+		this.info = info;
+	}
+	
 	public List<Statement> getStatements() {
 		return statements;
 	}
@@ -26,6 +36,8 @@ public class Director extends BaseInfo {
 	public void setDirectorId(Integer directorId) {
 		DirectorId = directorId;
 	}
+	
+
 	
 	
 }

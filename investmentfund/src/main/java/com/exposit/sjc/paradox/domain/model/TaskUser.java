@@ -5,7 +5,7 @@ import java.util.List;
 import javax.persistence.Entity;
 
 @Entity
-public class TaskUser extends BaseInfo {
+public class TaskUser  {
 	
 	private List<Project> projects;
 	
@@ -15,6 +15,16 @@ public class TaskUser extends BaseInfo {
 	
 	private List<Recommendation> recommendations;
 
+	private BaseInfo info;
+
+	public BaseInfo getInfo() {
+		return info;
+	}
+	
+	public void setInfo(BaseInfo info) {
+		this.info = info;
+	}
+	
 	public List<Project> getProjects() {
 		return projects;
 	}
