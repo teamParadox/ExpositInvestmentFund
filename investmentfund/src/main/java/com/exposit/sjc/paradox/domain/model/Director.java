@@ -5,7 +5,7 @@ import java.util.List;
 import javax.persistence.Entity;
 
 @Entity
-public class Director extends BaseModel {
+public class Director extends BaseInfo {
 	
 	private Integer DirectorId;
 	

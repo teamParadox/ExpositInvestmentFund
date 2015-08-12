@@ -5,7 +5,7 @@ import java.util.List;
 import javax.persistence.Entity;
 
 @Entity
-public class DonateUser extends BaseModel {
+public class DonateUser extends BaseInfo {
 
 	private Integer accountId;
 	

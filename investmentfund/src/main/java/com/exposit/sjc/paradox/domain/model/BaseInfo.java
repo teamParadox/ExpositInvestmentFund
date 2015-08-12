@@ -3,7 +3,7 @@ package com.exposit.sjc.paradox.domain.model;
 import javax.persistence.Entity;
 
 @Entity
-public class BaseModel {
+public class BaseInfo {
 	
 	private Integer id;
 	

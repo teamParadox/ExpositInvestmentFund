@@ -5,7 +5,7 @@ import java.util.List;
 import javax.persistence.Entity;
 
 @Entity
-public class TaskUser extends BaseModel {
+public class TaskUser extends BaseInfo {
 	
 	private List<Project> projects;
 	
