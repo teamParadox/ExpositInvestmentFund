@@ -15,7 +15,7 @@ import javax.persistence.Table;
 public class Statement {
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	@Column(name = "statement_id")
-	private int statementId;
+	private Integer statementId;
 	
 	@Column(name = "statemnt_projectarea")
 	@Enumerated(EnumType.STRING)

@@ -11,7 +11,7 @@ import javax.persistence.Table;
 public class Recommendation {
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	@Column(name = "recommendation_id")
-	private int recommendationId;
+	private Integer recommendationId;
 	
 	@Column(name = "recommendation_userid")
 	private String userLogin;

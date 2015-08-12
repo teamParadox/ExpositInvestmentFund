@@ -15,7 +15,7 @@ import javax.persistence.Table;
 public class FundArea {
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	@Column(name = "fundArea_fundAreaId")
-	private int fundAreaId;
+	private Integer fundAreaId;
 	
 	@OneToOne
 	@JoinColumn( name = "fundArea_fundAreaAccount")

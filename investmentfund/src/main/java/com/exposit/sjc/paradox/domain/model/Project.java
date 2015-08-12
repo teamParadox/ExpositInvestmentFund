@@ -18,7 +18,7 @@ import javax.persistence.Table;
 public class Project {
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	@Column(name = "project_projectId")
-	private int projectId;
+	private Integer projectId;
 	
 	@Column(name = "project_projectName")
 	private String projectName;
