@@ -7,8 +7,6 @@ import javax.persistence.Entity;
 @Entity
 public class TaskUser  {
 	
-	private Integer id;
-	
 	private List<Project> projects;
 	
 	private List<Statement> statements;
@@ -19,14 +17,6 @@ public class TaskUser  {
 
 	private BaseInfo info;
 
-	public Integer getId() {
-		return id;
-	}
-
-	public void setId(Integer id) {
-		this.id = id;
-	}
-	
 	public BaseInfo getInfo() {
 		return info;
 	}

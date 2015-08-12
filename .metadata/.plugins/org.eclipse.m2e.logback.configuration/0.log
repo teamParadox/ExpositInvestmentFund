@@ -406,3 +406,15 @@
 2015-08-13 00:45:15,834 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2015-08-13 00:45:15,836 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
 2015-08-13 00:45:15,837 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JSC-2015 проект\ExpositInvestmentFund\investmentfund\src\test\resources
+2015-08-13 00:58:45,269 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-13 00:58:45,271 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-08-13 00:58:45,274 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-13 00:58:45,275 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JSC-2015 проект\ExpositInvestmentFund\investmentfund\src\test\resources
+2015-08-13 01:22:41,607 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-13 01:22:41,610 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-08-13 01:22:41,613 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-13 01:22:41,614 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JSC-2015 проект\ExpositInvestmentFund\investmentfund\src\test\resources
+2015-08-13 01:25:10,347 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-13 01:25:10,349 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-08-13 01:25:10,350 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-13 01:25:10,351 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JSC-2015 проект\ExpositInvestmentFund\investmentfund\src\test\resources
