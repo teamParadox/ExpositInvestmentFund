@@ -1,4 +1,4 @@
-package com.exposit.sjc.paradox.app.service;
+package com.exposit.sjc.paradox.domain.service;
 
 import java.util.List;
 
