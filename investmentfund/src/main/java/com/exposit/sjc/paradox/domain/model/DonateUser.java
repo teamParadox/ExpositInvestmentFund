@@ -7,7 +7,7 @@ import javax.persistence.Entity;
 @Entity
 public class DonateUser extends BaseModel {
 
-	private int accountId;
+	private Integer accountId;
 	
 	private List<Comment> comments;
 	

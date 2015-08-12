@@ -17,7 +17,7 @@ public class Fund {
 
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	@Column(name = "fund_id")
-	private int fundId;
+	private Integer fundId;
 	
 	@OneToOne
 	@JoinColumn(name = "fund_fundAccount")

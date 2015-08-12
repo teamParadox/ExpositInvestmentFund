@@ -5,6 +5,8 @@ import javax.persistence.Entity;
 @Entity
 public class BaseModel {
 	
+	private Integer id;
+	
 	private String firstName;
 	
 	private String lastName;
@@ -54,4 +56,13 @@ public class BaseModel {
 	public void setPassword(String password) {
 		this.password = password;
 	}
+	
+	public Integer getId() {
+		return id;
+	}
+	
+	public void setId(Integer id) {
+		this.id = id;
+	}
+	
 }
