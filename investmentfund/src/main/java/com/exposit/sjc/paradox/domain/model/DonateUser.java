@@ -1,5 +1,5 @@
 package com.exposit.sjc.paradox.domain.model;
 
-public class ModelClass {
+public class DonateUser {
 
 }
