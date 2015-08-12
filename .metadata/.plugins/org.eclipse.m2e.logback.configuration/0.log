@@ -1,0 +1,88 @@
+2015-08-12 10:16:26,844 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\JSC-2015 проект\ExpositInvestmentFund\investmentfund\pom.xml
+2015-08-12 10:16:28,085 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.exposit.sjc.paradox:investmentfund:0.0.1-SNAPSHOT @ D:\JSC-2015 проект\ExpositInvestmentFund\investmentfund\pom.xml.
+2015-08-12 10:16:29,511 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /investmentfund/src/main/java
+2015-08-12 10:16:29,512 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /investmentfund/src/main/resources
+2015-08-12 10:16:29,513 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /investmentfund/src/test/java
+2015-08-12 10:16:29,697 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.exposit.sjc.paradox:investmentfund:0.0.1-SNAPSHOT @ D:\JSC-2015 проект\ExpositInvestmentFund\investmentfund\pom.xml.
+2015-08-12 10:16:32,926 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 6 sec
+2015-08-12 10:16:34,884 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.exposit.sjc.paradox:investmentfund:0.0.1-SNAPSHOT @ D:\JSC-2015 проект\ExpositInvestmentFund\investmentfund\pom.xml.
+2015-08-12 10:16:35,081 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-12 10:16:35,143 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-08-12 10:16:35,146 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-12 10:16:35,147 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JSC-2015 проект\ExpositInvestmentFund\investmentfund\src\test\resources
+2015-08-12 10:16:35,469 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-12 10:16:35,478 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-08-12 10:16:35,480 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-12 10:16:35,482 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JSC-2015 проект\ExpositInvestmentFund\investmentfund\src\test\resources
+2015-08-12 10:17:37,318 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.exposit.sjc.paradox:investmentfund:0.0.1-SNAPSHOT @ D:\JSC-2015 проект\ExpositInvestmentFund\investmentfund\pom.xml.
+2015-08-12 10:17:37,476 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-12 10:17:37,478 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-08-12 10:17:37,479 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-12 10:17:37,481 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JSC-2015 проект\ExpositInvestmentFund\investmentfund\src\test\resources
+2015-08-12 10:17:37,481 [Worker-6] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of investmentfund
+2015-08-12 10:17:37,483 [Worker-6] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for investmentfund
+2015-08-12 10:17:37,581 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-12 10:17:38,692 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-12 10:17:38,693 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-08-12 10:17:38,694 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-12 10:17:38,695 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JSC-2015 проект\ExpositInvestmentFund\investmentfund\src\test\resources
+2015-08-12 10:17:59,566 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-12 10:17:59,567 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JSC-2015 проект\ExpositInvestmentFund\investmentfund\src\main\resources
+2015-08-12 10:17:59,569 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-12 10:17:59,570 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JSC-2015 проект\ExpositInvestmentFund\investmentfund\src\test\resources
+2015-08-12 10:24:06,649 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\JSC-2015 проект\ExpositInvestmentFund\investmentfund\pom.xml
+2015-08-12 10:24:06,845 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.exposit.sjc.paradox:investmentfund:0.0.1-SNAPSHOT @ D:\JSC-2015 проект\ExpositInvestmentFund\investmentfund\pom.xml.
+2015-08-12 10:24:07,395 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /investmentfund/src/main/java
+2015-08-12 10:24:07,396 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /investmentfund/src/main/resources
+2015-08-12 10:24:07,396 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /investmentfund/src/test/java
+2015-08-12 10:24:09,243 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2015-08-12 10:24:09,429 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.exposit.sjc.paradox:investmentfund:0.0.1-SNAPSHOT @ D:\JSC-2015 проект\ExpositInvestmentFund\investmentfund\pom.xml.
+2015-08-12 10:24:10,122 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.exposit.sjc.paradox:investmentfund:0.0.1-SNAPSHOT @ D:\JSC-2015 проект\ExpositInvestmentFund\investmentfund\pom.xml.
+2015-08-12 10:24:10,300 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-12 10:24:10,306 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-08-12 10:24:10,307 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-12 10:24:10,312 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JSC-2015 проект\ExpositInvestmentFund\investmentfund\src\test\resources
+2015-08-12 10:24:52,603 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.exposit.sjc.paradox:investmentfund:0.0.1-SNAPSHOT @ D:\JSC-2015 проект\ExpositInvestmentFund\investmentfund\pom.xml.
+2015-08-12 10:24:52,752 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-12 10:24:52,754 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-08-12 10:24:52,755 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-12 10:24:52,757 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JSC-2015 проект\ExpositInvestmentFund\investmentfund\src\test\resources
+2015-08-12 10:24:52,757 [Worker-8] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of investmentfund
+2015-08-12 10:24:52,758 [Worker-8] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for investmentfund
+2015-08-12 10:24:52,933 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-12 10:24:54,100 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-12 10:24:54,101 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-08-12 10:24:54,103 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-12 10:24:54,108 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JSC-2015 проект\ExpositInvestmentFund\investmentfund\src\test\resources
+2015-08-12 10:25:13,658 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-12 10:25:13,660 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-08-12 10:25:13,663 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-12 10:25:13,664 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JSC-2015 проект\ExpositInvestmentFund\investmentfund\src\test\resources
+2015-08-12 10:25:43,080 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-12 10:25:43,084 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-08-12 10:25:43,086 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-12 10:25:43,087 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JSC-2015 проект\ExpositInvestmentFund\investmentfund\src\test\resources
+2015-08-12 10:25:51,526 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-12 10:25:51,528 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-08-12 10:25:51,529 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-12 10:25:51,529 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JSC-2015 проект\ExpositInvestmentFund\investmentfund\src\test\resources
+2015-08-12 10:25:58,003 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-12 10:25:58,005 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-08-12 10:25:58,006 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-12 10:25:58,007 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JSC-2015 проект\ExpositInvestmentFund\investmentfund\src\test\resources
+2015-08-12 10:26:14,489 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-12 10:26:14,491 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-08-12 10:26:14,493 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-12 10:26:14,493 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JSC-2015 проект\ExpositInvestmentFund\investmentfund\src\test\resources
+2015-08-12 10:26:21,682 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-12 10:26:21,683 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-08-12 10:26:21,684 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-12 10:26:21,685 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JSC-2015 проект\ExpositInvestmentFund\investmentfund\src\test\resources
+2015-08-12 10:26:35,662 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-12 10:26:35,664 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-08-12 10:26:35,665 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-12 10:26:35,666 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JSC-2015 проект\ExpositInvestmentFund\investmentfund\src\test\resources
+2015-08-12 10:26:43,638 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-12 10:26:43,640 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-08-12 10:26:43,643 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-12 10:26:43,644 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JSC-2015 проект\ExpositInvestmentFund\investmentfund\src\test\resources
